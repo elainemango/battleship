@@ -1,2 +1,2 @@
 # battleship
-# simple two player battleship game using python
+simple two player battleship game using python
